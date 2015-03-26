@@ -314,7 +314,7 @@ public class Analyzer implements AnalyzerConstants {
   static private Token jj_consume_token(int kind) throws ParseException {
     Token oldToken;
     if ((oldToken = token).next != null) token = token.next;
-    else token = token.next = token_source.getNextToken();
+    else token = token.next = token_source.getNextToken();//jkhkjhjk
     jj_ntk = -1;
     if (token.kind == kind) {
       jj_gen++;
