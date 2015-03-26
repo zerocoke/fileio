@@ -1,0 +1,4 @@
+H(A)+H(B|C)<=I(A;B|C)
+H(A)+H(B|C)<=I(A;B|C)
+H(A)+H(B|C)<=I(A;B|C)
+H(A)+H(B|C)<=I(A;B|C)
